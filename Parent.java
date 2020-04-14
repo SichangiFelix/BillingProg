@@ -4,7 +4,7 @@ package billing.program.Billingprogram;
 import javax.swing.*;
 
 public class Parent {
-    
+    //variables for use
     int n,i;
     double d,c;
     double total;
